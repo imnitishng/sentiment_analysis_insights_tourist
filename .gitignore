@@ -1,0 +1,9 @@
+# Chrome driver
+chromedriver
+
+# Environment
+sel_ta/
+
+# Reviews
+reviewALL.csv
+reviews_lucknow.csv
